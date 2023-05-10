@@ -1,2 +1,2 @@
 # 个人博客
-https://blog.publicplatform.club/
+http://blog.publicplatform.xyz/
