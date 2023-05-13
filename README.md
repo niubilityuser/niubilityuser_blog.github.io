@@ -1,2 +1,2 @@
 # 个人博客
-http://http://blog.zlgai.com
+https://blog.zlgai.com
